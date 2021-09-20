@@ -1,9 +1,5 @@
 package seedu.address.commons.core;
 
-import seedu.address.logic.parser.ParserUtil;
-
-import java.security.PublicKey;
-
 /**
  * Container for user visible messages.
  */
